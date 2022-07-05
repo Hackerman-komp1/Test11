@@ -3,9 +3,16 @@
 
 #include <iostream>
 
+void test()
+{
+    std::cout << "ok" << std::endl;
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello World123!\n";
+    test();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
