@@ -6,6 +6,7 @@
 void test()
 {
     std::cout << "ok" << std::endl;
+    std::cout << "ok123" << std::endl;
 }
 
 int main()
